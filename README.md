@@ -32,3 +32,7 @@ There is a board in the projects section that contain a huge list of topics sort
 
 1. Although this repository is named competitive programming, it is a great resource to learn and practice for coding interviews and/or just to get better at solving problems and algorithms.
 2. Most of competitive programmers tend to use C++ as their main language, this happens by the fact that C++ have a lot of data structures and it is also one of the most performatic programming languages out there. That beign said, you don't need to learn C++ to practice, learn and overall get better at algorithms, data structures and so on. If  you already know a programming language or just don't like C++, you can just go ahead with any other. But if you don't know any languages yet, then you can start with C++.
+
+---
+
+<p align="center">Happy Learning</p>
